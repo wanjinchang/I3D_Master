@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/C3D" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Hidden-Two-Stream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../hourglass_tensorflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../hourglasstensorlfow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ssd_tensorflow_traffic_sign_detection" vcs="Git" />
+    <mapping directory="$USER_HOME$/tensorflow" vcs="Git" />
+  </component>
+</project>

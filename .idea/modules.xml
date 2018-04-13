@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../C3D-tensorflow-master/.idea/C3D-tensorflow-master.iml" filepath="$PROJECT_DIR$/../C3D-tensorflow-master/.idea/C3D-tensorflow-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hidden-Two-Stream/.idea/Hidden-Two-Stream.iml" filepath="$PROJECT_DIR$/../Hidden-Two-Stream/.idea/Hidden-Two-Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/I3D_Net.iml" filepath="$PROJECT_DIR$/.idea/I3D_Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTS_Net/.idea/MotionNet.iml" filepath="$PROJECT_DIR$/../HTS_Net/.idea/MotionNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSD_TensorFlow_learn/.idea/SSD_TensorFlow_learn.iml" filepath="$PROJECT_DIR$/../SSD_TensorFlow_learn/.idea/SSD_TensorFlow_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stacked_Hourglass_TensorFlow/.idea/Stacked_Hourglass_TensorFlow.iml" filepath="$PROJECT_DIR$/../Stacked_Hourglass_TensorFlow/.idea/Stacked_Hourglass_TensorFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TF_objectdetection_api_learn/.idea/TF_objectdetection_api_learn.iml" filepath="$PROJECT_DIR$/../TF_objectdetection_api_learn/.idea/TF_objectdetection_api_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Vehicle_Recognition/.idea/Vehicle_Recognition.iml" filepath="$PROJECT_DIR$/../Vehicle_Recognition/.idea/Vehicle_Recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ceshi/.idea/ceshi.iml" filepath="$PROJECT_DIR$/../ceshi/.idea/ceshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplab_tensorflow/.idea/deeplab_tensorflow.iml" filepath="$PROJECT_DIR$/../deeplab_tensorflow/.idea/deeplab_tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hourglass_tensorflow/.idea/hourglasstensorlfow.iml" filepath="$PROJECT_DIR$/../hourglass_tensorflow/.idea/hourglasstensorlfow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytorch-pruning/.idea/pytorch-pruning.iml" filepath="$PROJECT_DIR$/../pytorch-pruning/.idea/pytorch-pruning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssd_tensorflow_traffic_sign_detection/.idea/ssd_tensorflow_traffic_sign_detection.iml" filepath="$PROJECT_DIR$/../ssd_tensorflow_traffic_sign_detection/.idea/ssd_tensorflow_traffic_sign_detection.iml" />
+      <module fileurl="file://$USER_HOME$/133/gz_illegal_new/.idea/sz_plate.iml" filepath="$USER_HOME$/133/gz_illegal_new/.idea/sz_plate.iml" />
+      <module fileurl="file:///media/thinkjoy/0000678400004823/sz_deeptraffic/guangzhou_yuanshan/.idea/sz_plate.iml" filepath="/media/thinkjoy/0000678400004823/sz_deeptraffic/guangzhou_yuanshan/.idea/sz_plate.iml" />
+      <module fileurl="file:///media/thinkjoy/0000678400004823/sz_deeptraffic/gz_illegal/.idea/sz_plate.iml" filepath="/media/thinkjoy/0000678400004823/sz_deeptraffic/gz_illegal/.idea/sz_plate.iml" />
+      <module fileurl="file://$USER_HOME$/tensorflow/.idea/tensorflow.iml" filepath="$USER_HOME$/tensorflow/.idea/tensorflow.iml" />
+    </modules>
+  </component>
+</project>

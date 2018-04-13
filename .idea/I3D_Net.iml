@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 (~/anaconda3/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="TF_objectdetection_api_learn" />
+    <orderEntry type="module" module-name="SSD_TensorFlow_learn" />
+    <orderEntry type="module" module-name="ceshi" />
+    <orderEntry type="module" module-name="C3D-tensorflow-master" />
+    <orderEntry type="module" module-name="Hidden-Two-Stream" />
+    <orderEntry type="module" module-name="Vehicle_Recognition" />
+    <orderEntry type="module" module-name="tensorflow" />
+    <orderEntry type="module" module-name="pytorch-pruning" />
+    <orderEntry type="module" module-name="deeplab_tensorflow" />
+    <orderEntry type="module" module-name="ssd_tensorflow_traffic_sign_detection" />
+    <orderEntry type="module" module-name="sz_plate" />
+    <orderEntry type="module" module-name="sz_plate" />
+    <orderEntry type="module" module-name="Stacked_Hourglass_TensorFlow" />
+    <orderEntry type="module" module-name="hourglasstensorlfow" />
+    <orderEntry type="module" module-name="hourglasstensorlfow" />
+  </component>
+</module>
